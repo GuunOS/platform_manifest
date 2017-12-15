@@ -9,7 +9,7 @@ familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 
-    repo init -u git://github.com/PsychoOS/android.git -b Psycho-N
+    repo init -u git://github.com/PsychoOS/manifest.git -b Psycho-N
 
 Then to sync up:
 
