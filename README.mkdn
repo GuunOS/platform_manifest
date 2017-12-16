@@ -4,13 +4,17 @@ AoPs
 Getting Started
 ---------------
 
-To get started with Android/PsychoOS, you'll need to get
-familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
+To get started with the building process, you'll need to get familiar with Git and Repo.
 
-To initialize your local repository using the PsychoOS trees, use a command like this:
+To initialize your local repository, use a command like this:
 
     repo init -u git://github.com/PsychoOS/manifest.git -b Psycho-N
 
 Then to sync up:
 
-    repo sync
+    repo sync  -f --force-sync --no-clone-bundle
+    
+Additionally, you can define the number of parallel download repo should do:
+
+    repo sync -f -jX --force-sync --no-clone-bundle    ( X is the number of parallel download repo should do choose depending on your cpu )
+
