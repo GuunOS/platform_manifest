@@ -14,8 +14,9 @@
   <project path="system/sepolicy" name="android_system_sepolicy" remote="Psycho-N" />
   <project path="packages/apps/PhoneCommon" name="android_packages_apps_PhoneCommon" remote="Psycho-N" />
   <project path="packages/apps/ContactsCommon" name="android_packages_apps_ContactsCommon" remote="Psycho-N" />
-  <project path="vendor/cm" name="android_vendor_cm" remote="Psycho-N" />
+  <project path="vendor/psycho" name="android_vendor_cm" remote="Psycho-N" />
   <project path="packages/apps/CMParts" name="android_packages_apps_CMParts" remote="Psycho-N" />
+  <project path="scripts" name="psycho_scripts" remote="Psycho-N" />
   <project path="build" name="android_build" remote="Psycho-N">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
