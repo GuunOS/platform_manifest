@@ -10,6 +10,7 @@
   <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="Psycho-N" />
   <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="Psycho-N" />
   <project path="packages/apps/PsychoTweaks" name="android_packages_apps_PsychoTweaks" remote="Psycho-N" />
+  <project path="packages/apps/PsychoSupport" name="android_packages_apps_PsychoSupport" remote="Psycho-N" />
   <project path="packages/apps/ExactCalculator" name="android_packages_apps_ExactCalculator" remote="Psycho-N" />
   <project path="packages/apps/SetupWizard" name="android_packages_apps_SetupWizard" remote="Psycho-N" />
   <project path="frameworks/native" name="android_frameworks_native" remote="Psycho-N" />
