@@ -12,6 +12,7 @@
   <project path="packages/apps/PsychoSupport" name="android_packages_apps_PsychoSupport" remote="Psycho-N" />
   <project path="packages/apps/Eleven" name="android_packages_apps_Eleven" remote="Psycho-N" />
   <project path="packages/apps/ExactCalculator" name="android_packages_apps_ExactCalculator" remote="Psycho-N" />
+  <project path="packages/apps/PsychoOTA" name="android_packages_apps_PsychoOTA" remote="Psycho-N" />
   <project path="frameworks/native" name="android_frameworks_native" remote="Psycho-N" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="Psycho-N" />
   <project path="packages/apps/PhoneCommon" name="android_packages_apps_PhoneCommon" remote="Psycho-N" />
