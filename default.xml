@@ -494,7 +494,7 @@
   <project path="packages/apps/Test/connectivity" name="platform/packages/apps/Test/connectivity" groups="pdk" remote="aosp" />
   <project path="packages/apps/UnifiedEmail" name="android_packages_apps_UnifiedEmail" groups="pdk-fs" />
   <project path="packages/apps/WallpaperPicker" name="android_packages_apps_WallpaperPicker" />
-  <project path="packages/apps/XenonApps" name="android_packages_apps_XenonApps" remote="guun" revision="test" />
+  <project path="packages/apps/XenonApps" name="android_packages_apps_GuunApps" remote="guun" revision="test" />
   <project path="packages/apps/XenonOTA" name="android_packages_apps_XenonOTA" remote="guun" revision="test" />
   <project path="packages/experimental" name="platform/packages/experimental" remote="aosp" />
   <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" groups="pdk-fs" />
