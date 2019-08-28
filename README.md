@@ -15,13 +15,7 @@
 
 > `brunch aio_otfp`
 
-# 3rd party apps - choose which you want to build
-    PRODUCT_PACKAGES += \
-        AdAway \
-        KernelAdiutor \
-        MiXplorer
-        
-Also you need to specify which camera app you want to use with:
+You can specify which camera app you want to use:
 # Camera
     PRODUCT_PACKAGES += \
       Camera2 \
