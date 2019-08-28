@@ -19,7 +19,9 @@
 `
 PRODUCT_PACKAGES += \
     AdAway \
+    
     KernelAdiutor \
+    
     MiXplorer
     `
 Also you need to specify which camera app you want to use with:
