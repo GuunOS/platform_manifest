@@ -4,7 +4,7 @@
 
 
 # Sync
-> `repo init -u git://https://github.com/GuunOS/platform_manifest.git -b test`
+> `repo init -u https://github.com/GuunOS/platform_manifest.git -b test`
 
 > `repo sync -j8`
 
