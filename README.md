@@ -16,7 +16,9 @@
 > `brunch aio_otfp`
 
 You can specify which camera app you want to use:
+
 <strong>Camera</strong>
+
     PRODUCT_PACKAGES += \
       Camera2 \
       Snap
