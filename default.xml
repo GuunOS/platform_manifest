@@ -24,7 +24,7 @@
            review="review.projektsubstratum.com" />
 		   
   <remote  name="guun"
-           fetch="https://github.com/guuntest" />
+           fetch="https://github.com/GuunOS" />
 
   <default revision="refs/heads/cm-14.1"
            remote="laos"
