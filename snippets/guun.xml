@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="frameworks/base" name="android_frameworks_base" remote="guun" />
+  <project path="frameworks/av" name="android_frameworks_av" remote="guun" />
+  <project path="external/libhevc" name="android_external_libhevc" remote="guun" />
+  <project path="system/core" name="android_system_core" remote="guun" />
+  <project path="system/media" name="android_system_media" remote="guun" />
+  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="guun" />
+  <project path="packages/apps/Dialer" name="android_packages_apps_Dialer" remote="guun" />
+  <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="guun" />
+  <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="guun" />
+  <project path="packages/apps/Eleven" name="android_packages_apps_Eleven" remote="guun" />
+  <project path="packages/apps/ExactCalculator" name="android_packages_apps_ExactCalculator" remote="guun" />
+  <project path="packages/apps/PsychoOTA" name="android_packages_apps_PsychoOTA" remote="guun" />
+  <project path="frameworks/native" name="android_frameworks_native" remote="guun" />
+  <project path="system/sepolicy" name="android_system_sepolicy" remote="guun" />
+  <project path="packages/apps/PhoneCommon" name="android_packages_apps_PhoneCommon" remote="guun" />
+  <project path="packages/apps/ContactsCommon" name="android_packages_apps_ContactsCommon" remote="guun" />
+  <project path="vendor/psycho" name="android_vendor_cm" remote="guun" />
+  <project path="packages/apps/CMParts" name="android_packages_apps_CMParts" remote="guun" />
+  <project path="scripts" name="psycho_scripts" remote="guun" />
+  <project path="build" name="android_build" remote="guun">
+    <copyfile src="core/root.mk" dest="Makefile" />
+  </project>
+</manifest>

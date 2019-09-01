@@ -18,9 +18,9 @@
            sync-c="true"
            sync-j="4" />
 
-  <remote  name="Psycho-N"
-     fetch="https://github.com/PsychoOS"
-     revision="Psycho-N" />
+  <remote  name="guun"
+     fetch="https://github.com/GuunOS"
+     revision="guunaugat" />
 
   <!-- AOSP Projects -->
 
@@ -496,6 +496,6 @@
   <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
 
   <include name="snippets/cm.xml" />
-  <include name="snippets/psycho.xml" />
+  <include name="snippets/guun.xml" />
 
 </manifest>
