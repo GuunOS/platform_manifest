@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="frameworks/base" name="android_frameworks_base" remote="guun" />
+  <!-- <project path="frameworks/base" name="android_frameworks_base" remote="guun" />-->
+  <project path="frameworks/base" name="guun_base" remote="guun" />
   <project path="frameworks/av" name="android_frameworks_av" remote="guun" />
   <project path="external/libhevc" name="android_external_libhevc" remote="guun" />
   <project path="system/core" name="android_system_core" remote="guun" />
