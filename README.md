@@ -11,9 +11,9 @@
 # Build
 > `. build/envsetup.sh`
 
-> `breakfast aio_otfp`
+> `lunch guun_aio_otfp-userdebug`
 
-> `brunch aio_otfp`
+> `brunch guun_aio_otfp-userdebug`
 
 You can specify which camera app you want to use:
 
